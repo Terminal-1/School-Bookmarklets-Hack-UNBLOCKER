@@ -1,2 +1,4 @@
 # School-Bookmarklets-Hack
-These are made by me, If any problems please make sure to tell me.  PLEASE READ.ME FIRST! Bookmarklets is a type of code you can add into your extensions and do what ever you would like with it! HAVE FUN
+Instructions
+Go to top of page then add book mark for URL type in the code for name add what ever you would like!GO
+Go to google first type in google.com!
